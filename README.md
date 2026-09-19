@@ -1,6 +1,7 @@
 <div align="center">
-  <!-- <img src="./photo29851813292.jpg"> -->
+  <img src="Front End image.png" width="400px">
   <h1>TAHA HEMATI</h1>
+  <p>HTML | CSS | Tailwind CSS | JavaScript</p>
 </div>
 
 
